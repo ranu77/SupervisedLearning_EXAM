@@ -35,6 +35,29 @@ That is exactly what this project builds — a complete ML pipeline from raw dat
 - ✅ Residual analysis and business interpretation
 - ✅ Saved final pipeline using joblib
 
+
+<img width="605" height="432" alt="image" src="https://github.com/user-attachments/assets/2558f6ac-1dd7-4573-ad5a-b265fe2451ca" />
+
+<img width="646" height="643" alt="image" src="https://github.com/user-attachments/assets/907b861b-1d02-44b8-b8d8-9b24db9057f7" />
+
+<img width="1166" height="319" alt="image" src="https://github.com/user-attachments/assets/8c4c129b-d42b-4161-b290-1283ce1b0f37" />
+
+<img width="714" height="511" alt="image" src="https://github.com/user-attachments/assets/ae72c128-fed3-477a-8aad-e7f788862458" />
+
+<img width="1164" height="320" alt="image" src="https://github.com/user-attachments/assets/dea11c3b-c0c8-4401-a711-864429847694" />
+
+<img width="1162" height="379" alt="image" src="https://github.com/user-attachments/assets/b08256f2-e131-446c-80a7-5966172e461c" />
+
+<img width="447" height="320" alt="image" src="https://github.com/user-attachments/assets/6290919f-5397-410c-bc60-9e0dbe13e76c" />
+
+<img width="640" height="385" alt="image" src="https://github.com/user-attachments/assets/ef63ecbf-7687-4065-ac75-03d12a230635" />
+
+<img width="642" height="385" alt="image" src="https://github.com/user-attachments/assets/02323657-031d-4dcc-8f7c-d63c497641d1" />
+
+<img width="511" height="384" alt="image" src="https://github.com/user-attachments/assets/a91e98ee-14b9-4d15-aed8-ddf2572db5d0" />
+
+<img width="1165" height="322" alt="image" src="https://github.com/user-attachments/assets/5201f505-6ad4-422a-bf67-dc900bfcca77" />
+
 ---
 
 ## 📊 Model Comparison
@@ -90,10 +113,15 @@ jupyter notebook exam.ipynb
 SupervisedLearning_EXAM/
 │
 ├── exam.ipynb # Main notebook (fully executed)
+
 ├── house_price_model.pkl # Saved sklearn pipeline
+
 ├── summary_report.md # Project summary
+
 ├── requirements.txt # Dependencies
+
 ├── Practical Exam _ Set A.pdf # Exam question paper
+
 └── README.md # You are here
 
 
